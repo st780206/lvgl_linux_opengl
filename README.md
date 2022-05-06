@@ -1,0 +1,2 @@
+# lvgl_linux_opengl
+linux终端模式下运行lvgl并可以使用opengl
