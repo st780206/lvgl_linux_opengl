@@ -112,3 +112,9 @@ int InitFrameBuffer(int* fb)
 
 如果想让framebuffer启动时，默认以图形模式启动不知道该修改kernel源码哪里？
 
+
+自动判断所有鼠标 
+https://blog.csdn.net/liang12360640/article/details/50350648
+
+https://github.com/powervr-graphics/Native_SDK/blob/master/examples/OpenGLES/01_HelloAPI/OpenGLESHelloAPI_NullWS.cpp
+
