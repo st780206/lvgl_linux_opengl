@@ -1,0 +1,9 @@
+[Unit]
+Description=chs camera app
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/cameraapp
+
+[Install]
+WantedBy=multi-user.target
